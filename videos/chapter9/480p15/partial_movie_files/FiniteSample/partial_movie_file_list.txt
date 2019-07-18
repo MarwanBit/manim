@@ -1,0 +1,7 @@
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00000.mp4'
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00001.mp4'
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00002.mp4'
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00003.mp4'
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00004.mp4'
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00005.mp4'
+file 'C:/Users/Amine Bit/Documents/GitHub/manim/manim/videos/chapter9/480p15/partial_movie_files/FiniteSample/00006.mp4'
